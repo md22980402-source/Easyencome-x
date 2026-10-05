@@ -1,0 +1,15 @@
+{
+  "users": {},
+  "submissions": [],
+  "withdrawals": [],
+  "rates": {
+    "task": 5.0
+  },
+  "settings": {
+    "support_url": "https://t.me/EasyIncomeX_Support",
+    "must_join_channel": "",
+    "referral_tasks_required": 5,
+    "referral_bonus": 10.0,
+    "guide": "Welcome! Work from the menu, submit your task proof, and wait for admin review."
+  }
+}
